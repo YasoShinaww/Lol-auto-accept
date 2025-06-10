@@ -13,4 +13,4 @@ https://www.virustotal.com/gui/file/2743c11652c012ef095bbe8585074bb7f22fea1afe8a
 AÇIKLAMA
 
 Bu proje, sadece otomatik kabul işlemi yapan basit bir otomasyon programıdır. Virustotal ve bazı antivirüs programları, otomasyon ve fare tıklaması yapan yazılımları bazen yanlışlıkla zararlı yazılım (false positive) olarak işaretleyebilir.
-Lütfen bu durumu yanlış anlamayın
+Lütfen bu durumu yanlış anlamayın.
